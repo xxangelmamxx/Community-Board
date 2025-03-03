@@ -1,0 +1,7 @@
+.events-board {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 320px));
+    gap: 3rem;
+    padding: 2rem;
+    justify-content: center;
+  }
