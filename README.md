@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hpMjljN2dsNzAwaXBscDJ2dnF3emE5Z2lhNzBycW9qbms0eXR1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q7Xn3wX8btB5V9rhR6/giphy.gif)
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hpMjljN2dsNzAwaXBscDJ2dnF3emE5Z2lhNzBycW9qbms0eXR1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q7Xn3wX8btB5V9rhR6/giphy.gif
 
 GIF created with giphy
 
